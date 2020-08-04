@@ -1,0 +1,9 @@
+Please enter the File Name:
+UI words
+ Enter starting word: 
+UI fail
+ Enter the target word you wish for: 
+UI pass
+0:Human plays. 1:Computer plays.
+UI 1
+SCORE 0/25

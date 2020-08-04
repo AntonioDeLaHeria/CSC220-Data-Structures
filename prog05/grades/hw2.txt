@@ -1,0 +1,101 @@
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+How many disks?
+UI 5
+0:Human plays. 1:Computer plays.
+UI 1
+a  5  4  3  2  1  
+b  
+c  
+
+a  5  4  3  2  1  
+b  
+c  
+
+a  5  4  3  2  1  
+b  
+c  
+
+a  5  4  3  2  1  
+b  
+c  
+
+a  5  4  3  2  
+b  1  
+c  
+
+a  5  4  3  
+b  1  
+c  2  
+
+a  5  4  3  
+b  
+c  2  1  
+
+a  5  4  
+b  3  
+c  2  1  
+
+a  5  4  
+b  3  
+c  2  1  
+
+a  5  4  1  
+b  3  
+c  2  
+
+a  5  4  1  
+b  3  2  
+c  
+
+a  5  4  
+b  3  2  1  
+c  
+
+a  5  
+b  3  2  1  
+c  4  
+
+a  5  
+b  3  2  1  
+c  4  
+
+a  5  
+b  3  2  1  
+c  4  
+
+a  5  
+b  3  2  
+c  4  1  
+
+a  5  2  
+b  3  
+c  4  1  
+
+a  5  2  1  
+b  3  
+c  4  
+
+a  5  2  1  
+b  
+c  4  3  
+
+a  5  2  1  
+b  
+c  4  3  
+
+a  5  2  
+b  1  
+c  4  3  
+
+a  5  
+b  1  
+c  4  3  2  
+
+You win!
+
+
+Not printing goal stack.  -10
+Didn't win!!   -5
+
+SCORE: 15/30

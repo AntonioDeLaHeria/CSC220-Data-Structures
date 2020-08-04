@@ -1,0 +1,207 @@
+ gather [edu.miami.cs.www/~vjm/csc220/google/mary.html]
+ indexing page 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)0
+ queue [3]
+ dequeued 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)0
+ urls: [edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/water.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/lamb.html, edu.miami.cs.www/~vjm/csc220/google/lamb.html, edu.miami.cs.www/~vjm/csc220/google/jack.html]
+ indexing page 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)0
+ indexing page 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)0
+ indexing page 11(edu.miami.cs.www/~vjm/csc220/google/white.html)0
+ indexing page 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)0
+ indexing page 16(edu.miami.cs.www/~vjm/csc220/google/water.html)0
+ indexing page 19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)0
+ indexing page 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)0
+ inc ref: 16(edu.miami.cs.www/~vjm/csc220/google/water.html)1
+ inc ref: 19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)1
+ inc ref: 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)1
+ inc ref: 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)1
+ inc ref: 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)1
+ inc ref: 11(edu.miami.cs.www/~vjm/csc220/google/white.html)1
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)1
+ words: [hill, fleece, white, jack, hill, fleece, fleece, white, lamb, water]
+ indexing word 3 (hill) []
+ add page: 3 (hill) [3]
+ indexing word 7 (fleece) []
+ add page: 7 (fleece) [3]
+ indexing word 8 (white) []
+ add page: 8 (white) [3]
+ indexing word 11 (jack) []
+ add page: 11 (jack) [3]
+ indexing word 14 (lamb) []
+ add page: 14 (lamb) [3]
+ indexing word 16 (water) []
+ add page: 16 (water) [3]
+ queue [7, 8, 11, 14, 16, 19, 20]
+ dequeued 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)1
+ urls: [edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/fleece.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/mary.html]
+ indexing page 23(edu.miami.cs.www/~vjm/csc220/google/fleece.html)0
+ indexing page 27(edu.miami.cs.www/~vjm/csc220/google/little.html)0
+ inc ref: 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)1
+ inc ref: 23(edu.miami.cs.www/~vjm/csc220/google/fleece.html)1
+ inc ref: 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)2
+ inc ref: 11(edu.miami.cs.www/~vjm/csc220/google/white.html)2
+ inc ref: 27(edu.miami.cs.www/~vjm/csc220/google/little.html)1
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)2
+ words: [lamb, snow, white, fleece, jill, mary, fleece, jack, snow, water]
+ add page: 14 (lamb) [3, 7]
+ indexing word 19 (snow) []
+ add page: 19 (snow) [7]
+ add page: 8 (white) [3, 7]
+ add page: 7 (fleece) [3, 7]
+ indexing word 20 (jill) []
+ add page: 20 (jill) [7]
+ indexing word 23 (mary) []
+ add page: 23 (mary) [7]
+ add page: 11 (jack) [3, 7]
+ add page: 16 (water) [3, 7]
+ queue [8, 11, 14, 16, 19, 20, 23, 27]
+ dequeued 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)2
+ urls: [edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/fleece.html, edu.miami.cs.www/~vjm/csc220/google/water.html, edu.miami.cs.www/~vjm/csc220/google/lamb.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/fleece.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/jill.html]
+ inc ref: 16(edu.miami.cs.www/~vjm/csc220/google/water.html)2
+ inc ref: 19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)2
+ inc ref: 23(edu.miami.cs.www/~vjm/csc220/google/fleece.html)2
+ inc ref: 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)3
+ inc ref: 27(edu.miami.cs.www/~vjm/csc220/google/little.html)2
+ inc ref: 11(edu.miami.cs.www/~vjm/csc220/google/white.html)3
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)3
+ words: [hill, lamb, mary, snow, fleece, lamb, jill, snow, white, jill]
+ add page: 3 (hill) [3, 8]
+ add page: 14 (lamb) [3, 7, 8]
+ add page: 23 (mary) [7, 8]
+ add page: 19 (snow) [7, 8]
+ add page: 7 (fleece) [3, 7, 8]
+ add page: 20 (jill) [7, 8]
+ add page: 8 (white) [3, 7, 8]
+ queue [11, 14, 16, 19, 20, 23, 27]
+ dequeued 11(edu.miami.cs.www/~vjm/csc220/google/white.html)3
+ urls: [edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/water.html, edu.miami.cs.www/~vjm/csc220/google/water.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/fleece.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/jack.html]
+ inc ref: 16(edu.miami.cs.www/~vjm/csc220/google/water.html)3
+ inc ref: 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)2
+ inc ref: 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)2
+ inc ref: 23(edu.miami.cs.www/~vjm/csc220/google/fleece.html)3
+ inc ref: 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)4
+ inc ref: 27(edu.miami.cs.www/~vjm/csc220/google/little.html)3
+ inc ref: 11(edu.miami.cs.www/~vjm/csc220/google/white.html)4
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)4
+ words: [lamb, hill, water, snow, mary, jack, mary, snow, little, mary]
+ add page: 14 (lamb) [3, 7, 8, 11]
+ add page: 3 (hill) [3, 8, 11]
+ add page: 16 (water) [3, 7, 11]
+ add page: 19 (snow) [7, 8, 11]
+ add page: 23 (mary) [7, 8, 11]
+ add page: 11 (jack) [3, 7, 11]
+ indexing word 27 (little) []
+ add page: 27 (little) [11]
+ queue [14, 16, 19, 20, 23, 27]
+ dequeued 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)4
+ urls: [edu.miami.cs.www/~vjm/csc220/google/water.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/fleece.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/lamb.html, edu.miami.cs.www/~vjm/csc220/google/jack.html, edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/snow.html]
+ inc ref: 16(edu.miami.cs.www/~vjm/csc220/google/water.html)4
+ inc ref: 19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)3
+ inc ref: 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)2
+ inc ref: 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)3
+ inc ref: 23(edu.miami.cs.www/~vjm/csc220/google/fleece.html)4
+ inc ref: 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)3
+ inc ref: 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)5
+ inc ref: 27(edu.miami.cs.www/~vjm/csc220/google/little.html)4
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)5
+ words: [jack, water, jack, jack, snow, hill, snow, mary, water, hill]
+ add page: 11 (jack) [3, 7, 11, 14]
+ add page: 16 (water) [3, 7, 11, 14]
+ add page: 19 (snow) [7, 8, 11, 14]
+ add page: 3 (hill) [3, 8, 11, 14]
+ add page: 23 (mary) [7, 8, 11, 14]
+ queue [16, 19, 20, 23, 27]
+ dequeued 16(edu.miami.cs.www/~vjm/csc220/google/water.html)4
+ urls: [edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/lamb.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/water.html]
+ inc ref: 16(edu.miami.cs.www/~vjm/csc220/google/water.html)5
+ inc ref: 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)3
+ inc ref: 19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)4
+ inc ref: 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)4
+ inc ref: 27(edu.miami.cs.www/~vjm/csc220/google/little.html)5
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)6
+ words: [mary, jack, jill, water, water, mary, fleece, lamb, snow, jack]
+ add page: 23 (mary) [7, 8, 11, 14, 16]
+ add page: 11 (jack) [3, 7, 11, 14, 16]
+ add page: 20 (jill) [7, 8, 16]
+ add page: 16 (water) [3, 7, 11, 14, 16]
+ add page: 7 (fleece) [3, 7, 8, 16]
+ add page: 14 (lamb) [3, 7, 8, 11, 16]
+ add page: 19 (snow) [7, 8, 11, 14, 16]
+ queue [19, 20, 23, 27]
+ dequeued 19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)4
+ urls: [edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/lamb.html, edu.miami.cs.www/~vjm/csc220/google/jack.html, edu.miami.cs.www/~vjm/csc220/google/jack.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/white.html]
+ inc ref: 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)4
+ inc ref: 19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)5
+ inc ref: 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)4
+ inc ref: 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)5
+ inc ref: 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)6
+ inc ref: 11(edu.miami.cs.www/~vjm/csc220/google/white.html)5
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)7
+ words: [mary, jill, lamb, hill, jill, fleece, snow, snow, water, white]
+ add page: 23 (mary) [7, 8, 11, 14, 16, 19]
+ add page: 20 (jill) [7, 8, 16, 19]
+ add page: 14 (lamb) [3, 7, 8, 11, 16, 19]
+ add page: 3 (hill) [3, 8, 11, 14, 19]
+ add page: 7 (fleece) [3, 7, 8, 16, 19]
+ add page: 19 (snow) [7, 8, 11, 14, 16, 19]
+ add page: 16 (water) [3, 7, 11, 14, 16, 19]
+ add page: 8 (white) [3, 7, 8, 19]
+ queue [20, 23, 27]
+ dequeued 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)4
+ urls: [edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/jack.html, edu.miami.cs.www/~vjm/csc220/google/little.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/jack.html]
+ inc ref: 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)5
+ inc ref: 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)5
+ inc ref: 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)6
+ inc ref: 27(edu.miami.cs.www/~vjm/csc220/google/little.html)6
+ inc ref: 11(edu.miami.cs.www/~vjm/csc220/google/white.html)6
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)8
+ words: [fleece, jack, jack, water, water, little, snow, jack, little, jack]
+ add page: 7 (fleece) [3, 7, 8, 16, 19, 20]
+ add page: 11 (jack) [3, 7, 11, 14, 16, 20]
+ add page: 16 (water) [3, 7, 11, 14, 16, 19, 20]
+ add page: 27 (little) [11, 20]
+ add page: 19 (snow) [7, 8, 11, 14, 16, 19, 20]
+ queue [23, 27]
+ dequeued 23(edu.miami.cs.www/~vjm/csc220/google/fleece.html)4
+ urls: [edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/jack.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/water.html, edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/lamb.html, edu.miami.cs.www/~vjm/csc220/google/lamb.html, edu.miami.cs.www/~vjm/csc220/google/little.html]
+ inc ref: 16(edu.miami.cs.www/~vjm/csc220/google/water.html)6
+ inc ref: 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)6
+ inc ref: 19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)6
+ inc ref: 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)6
+ inc ref: 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)7
+ inc ref: 27(edu.miami.cs.www/~vjm/csc220/google/little.html)7
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)9
+ words: [little, fleece, jack, white, hill, jack, hill, jill, little, jill]
+ add page: 27 (little) [11, 20, 23]
+ add page: 7 (fleece) [3, 7, 8, 16, 19, 20, 23]
+ add page: 11 (jack) [3, 7, 11, 14, 16, 20, 23]
+ add page: 8 (white) [3, 7, 8, 19, 23]
+ add page: 3 (hill) [3, 8, 11, 14, 19, 23]
+ add page: 20 (jill) [7, 8, 16, 19, 23]
+ queue [27]
+ dequeued 27(edu.miami.cs.www/~vjm/csc220/google/little.html)7
+ urls: [edu.miami.cs.www/~vjm/csc220/google/jack.html, edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/white.html, edu.miami.cs.www/~vjm/csc220/google/hill.html, edu.miami.cs.www/~vjm/csc220/google/jill.html, edu.miami.cs.www/~vjm/csc220/google/snow.html, edu.miami.cs.www/~vjm/csc220/google/mary.html, edu.miami.cs.www/~vjm/csc220/google/fleece.html, edu.miami.cs.www/~vjm/csc220/google/water.html, edu.miami.cs.www/~vjm/csc220/google/snow.html]
+ inc ref: 16(edu.miami.cs.www/~vjm/csc220/google/water.html)7
+ inc ref: 3(edu.miami.cs.www/~vjm/csc220/google/mary.html)7
+ inc ref: 20(edu.miami.cs.www/~vjm/csc220/google/jack.html)7
+ inc ref: 7(edu.miami.cs.www/~vjm/csc220/google/snow.html)8
+ inc ref: 23(edu.miami.cs.www/~vjm/csc220/google/fleece.html)5
+ inc ref: 8(edu.miami.cs.www/~vjm/csc220/google/jill.html)7
+ inc ref: 11(edu.miami.cs.www/~vjm/csc220/google/white.html)7
+ inc ref: 14(edu.miami.cs.www/~vjm/csc220/google/hill.html)10
+ words: [lamb, water, water, fleece, lamb, white, jack, snow, mary, white]
+ add page: 14 (lamb) [3, 7, 8, 11, 16, 19, 27]
+ add page: 16 (water) [3, 7, 11, 14, 16, 19, 20, 27]
+ add page: 7 (fleece) [3, 7, 8, 16, 19, 20, 23, 27]
+ add page: 8 (white) [3, 7, 8, 19, 23, 27]
+ add page: 11 (jack) [3, 7, 11, 14, 16, 20, 23, 27]
+ add page: 19 (snow) [7, 8, 11, 14, 16, 19, 20, 27]
+ add page: 23 (mary) [7, 8, 11, 14, 16, 19, 27]
+ pageDisk 
+{3=3(edu.miami.cs.www/~vjm/csc220/google/mary.html)7, 7=7(edu.miami.cs.www/~vjm/csc220/google/snow.html)8, 8=8(edu.miami.cs.www/~vjm/csc220/google/jill.html)7, 11=11(edu.miami.cs.www/~vjm/csc220/google/white.html)7, 14=14(edu.miami.cs.www/~vjm/csc220/google/hill.html)10, 16=16(edu.miami.cs.www/~vjm/csc220/google/water.html)7, 19=19(edu.miami.cs.www/~vjm/csc220/google/lamb.html)6, 20=20(edu.miami.cs.www/~vjm/csc220/google/jack.html)7, 23=23(edu.miami.cs.www/~vjm/csc220/google/fleece.html)5, 27=27(edu.miami.cs.www/~vjm/csc220/google/little.html)7}
+ urlToIndex 
+{edu.miami.cs.www/~vjm/csc220/google/fleece.html=23, edu.miami.cs.www/~vjm/csc220/google/hill.html=14, edu.miami.cs.www/~vjm/csc220/google/jack.html=20, edu.miami.cs.www/~vjm/csc220/google/jill.html=8, edu.miami.cs.www/~vjm/csc220/google/lamb.html=19, edu.miami.cs.www/~vjm/csc220/google/little.html=27, edu.miami.cs.www/~vjm/csc220/google/mary.html=3, edu.miami.cs.www/~vjm/csc220/google/snow.html=7, edu.miami.cs.www/~vjm/csc220/google/water.html=16, edu.miami.cs.www/~vjm/csc220/google/white.html=11}
+ wordDisk 
+{3=[3, 8, 11, 14, 19, 23], 7=[3, 7, 8, 16, 19, 20, 23, 27], 8=[3, 7, 8, 19, 23, 27], 11=[3, 7, 11, 14, 16, 20, 23, 27], 14=[3, 7, 8, 11, 16, 19, 27], 16=[3, 7, 11, 14, 16, 19, 20, 27], 19=[7, 8, 11, 14, 16, 19, 20, 27], 20=[7, 8, 16, 19, 23], 23=[7, 8, 11, 14, 16, 19, 27], 27=[11, 20, 23]}
+ wordToIndex 
+{hill=3, white=8, snow=19, fleece=7, lamb=14, mary=23, water=16, jack=11, jill=20, little=27}
+Found [mary, jack, jill] on

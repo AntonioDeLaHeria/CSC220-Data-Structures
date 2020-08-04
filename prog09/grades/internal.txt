@@ -1,0 +1,19 @@
+De La Heria	Login: aede220				Name: Antonio De La Heria
+Testing heapSort, quickSort, and mergeSort
+prog09.HeapSort@77f03bb1 on array of length 1000000
+1243558.154 microseconds
+prog09.HeapSort@77f03bb1 on array of length 10000000
+2.4589794066E7 microseconds
+1.6948918934341781 ratio/oratio
+prog09.QuickSort@2aafb23c on array of length 1000000
+448827.471 microseconds
+prog09.QuickSort@2aafb23c on array of length 10000000
+6785648.723 microseconds
+1.2958810923585378 ratio/oratio
+prog09.MergeSort@3ab39c39 on array of length 1000000
+564180.098 microseconds
+prog09.MergeSort@3ab39c39 on array of length 10000000
+6890696.548 microseconds
+1.0468840265359984 ratio/oratio
+SCORE: 45/45
+

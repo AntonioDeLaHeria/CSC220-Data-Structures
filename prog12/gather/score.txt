@@ -1,0 +1,9 @@
+You did not use question 8 on quiz12 to handle duplicate words, nor
+did you use teh same logic as you did for duplicate URLs.  This was a
+method I taught two years ago, and there was a copy of the solution
+passed around.  If you really thought of this approach on your own,
+then please let me know.
+
+SCORE  80/100
+
+

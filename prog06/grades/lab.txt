@@ -1,0 +1,21 @@
+Note: ./prog06/ArrayQueue.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+test: Testing ArrayQueue
+both labReallocate and labIterator will be set to true
+format is test: op() = CORRECT ANSWER , YOUR ANSWER
+right: toString() = [] ? []
+right: peek() = null ? null
+right: poll() = null ? null
+wrong: toString() = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14] ? [5, 6, 7, 8, 9, null, 10, 11, 12, 13, 14, null, null, null, null]
+wrong: toString() = [24] ? [null, 20, 21, 22, 23, 24, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+wrong: peek() = 24 ? null
+wrong: poll() = 24 ? null
+wrong: peek() = null ? 20
+wrong: poll() = null ? 20
+wrong: toString() = [] ? [21, 22, 23, 24, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+
+test: Testing LinkedQueue
+both labReallocate and labIterator should be set to true
+format is test: op() = CORRECT ANSWER , YOUR ANSWER
+test: exception java.lang.NullPointerException
+SCORE 3/20

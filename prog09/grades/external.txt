@@ -1,0 +1,5 @@
+De La Heria	Login: aede220				Name: Antonio De La Heria
+javac prog09/ExternalSort.java
+java prog09/ExternalSort
+SCORE: 15/15
+

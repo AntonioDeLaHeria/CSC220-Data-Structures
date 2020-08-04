@@ -1,0 +1,99 @@
+Please enter the file name: 
+UI words
+Enter the starting word:
+UI snow
+Enter the target word:
+UI rain
+0:Humman Plays. 1:Computer Plays.
+UI 1
+DEQUEUE: snow
+DEQUEUE: know
+DEQUEUE: stow
+DEQUEUE: scow
+DEQUEUE: slow
+DEQUEUE: snob
+DEQUEUE: show
+DEQUEUE: snub
+DEQUEUE: shot
+DEQUEUE: stew
+DEQUEUE: knot
+DEQUEUE: blow
+DEQUEUE: knit
+DEQUEUE: shoe
+DEQUEUE: shop
+DEQUEUE: flow
+DEQUEUE: ship
+DEQUEUE: shit
+DEQUEUE: stop
+DEQUEUE: shin
+DEQUEUE: glow
+DEQUEUE: plow
+DEQUEUE: slot
+DEQUEUE: knew
+DEQUEUE: slew
+DEQUEUE: slob
+DEQUEUE: slit
+DEQUEUE: knob
+DEQUEUE: slop
+DEQUEUE: shod
+DEQUEUE: slip
+DEQUEUE: shed
+DEQUEUE: flip
+DEQUEUE: thin
+DEQUEUE: whip
+DEQUEUE: blot
+DEQUEUE: step
+DEQUEUE: stub
+DEQUEUE: skip
+DEQUEUE: stun
+DEQUEUE: spot
+DEQUEUE: slap
+DEQUEUE: snip
+DEQUEUE: unit
+DEQUEUE: snug
+DEQUEUE: chit
+DEQUEUE: skit
+DEQUEUE: brow
+DEQUEUE: slat
+DEQUEUE: spit
+DEQUEUE: atop
+DEQUEUE: flop
+DEQUEUE: shut
+DEQUEUE: suit
+DEQUEUE: chin
+DEQUEUE: shun
+DEQUEUE: soot
+DEQUEUE: skin
+DEQUEUE: whit
+DEQUEUE: root
+DEQUEUE: soon
+DEQUEUE: wait
+DEQUEUE: skew
+DEQUEUE: spin
+DEQUEUE: plod
+DEQUEUE: stem
+DEQUEUE: plot
+DEQUEUE: ploy
+DEQUEUE: blob
+DEQUEUE: slid
+DEQUEUE: knee
+DEQUEUE: said
+DEQUEUE: grow
+DEQUEUE: raid
+Start Word: snow
+ Target: rain
+ Poll Count: 74
+
+Path from Start to Target : 
+snow
+slow
+slot
+slit
+slid
+said
+raid
+rain
+
+Number of Steps: 7
+
+SCORE 25/25

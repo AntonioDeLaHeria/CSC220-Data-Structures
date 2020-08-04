@@ -1,0 +1,21 @@
+10/10	chained find
+
+10/10	chained remove
+
+10/10	chained rehash
+
+10/10	chained iterator
+
+10/10	open find
+
+10/10	open rehash (-5 for nonNULL++ without if (entry != DELETED))
+
+10/10	modified rehash rule
+
+10/10	open interator
+
+10/10	wtinge is [tewing, twinge] (multiple answers)
+
+10/10	solve the pun
+
+SCORE  100

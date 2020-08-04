@@ -1,0 +1,64 @@
+2,5c2,5
+<    by bobby 0
+<    ca null null
+<      lf bobcalf 1
+<      t bobcat 2
+---
+>     by bobby 0
+>     ca null null
+>         lf bobcalf 1
+>         t bobcat 2
+17,20c17,20
+<    by bobby 0
+<    ca null null
+<      lf bobcalf 1
+<      t bobcat 2
+---
+>     by bobby 0
+>     ca null null
+>         lf bobcalf 1
+>         t bobcat 2
+67,70c67,70
+<    by bobby 0
+<    ca null null
+<      lf bobcalf 1
+<      t bobcat 2
+---
+>     by bobby 0
+>     ca null null
+>         lf bobcalf 1
+>         t bobcat 2
+72c72
+<    dog catdog 3
+---
+>         dog catdog 3
+95,101c95,100
+< bob null null
+<    by bobby 0
+<    c null null
+<     a null null
+<      lf bobcalf 1
+<      t bobcat 2
+<     ut bobcut 7
+---
+> bob null 7
+>      null null
+>         by bobby 0
+>         ca null null
+>             lf bobcalf 1
+>             t bobcat 2
+103c102
+<    dog catdog 3
+---
+>         dog catdog 3
+113c112
+< size() = 6
+---
+> size() = 5
+121a121,122
+> null 7
+> null null
+122a124
+> null null
+125d126
+< bobcut 7

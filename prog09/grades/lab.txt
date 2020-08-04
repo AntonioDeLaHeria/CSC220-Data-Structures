@@ -1,0 +1,9 @@
+De La Heria	Login: aede220				Name: Antonio De La Heria
+Testing isSorted, sameContents, and insertionSort from LAB work
+isSorted({ 3, 1, 4, 1, 5, 9, 3, 6 }) = true -5
+prog09.InsertionSort@77f03bb1 on array of length 10000
+143952.938 microseconds
+prog09.InsertionSort@77f03bb1 on array of length 100000
+1.726289673E7 microseconds
+SCORE: 35/40
+

@@ -1,0 +1,25 @@
+put accehilmnotyz [zymotechnical] hash index 604334
+put ccehimnostyz [zymotechnics] hash index 573098
+put cehmnotyyz [zymotechny] hash index 251214
+put cimotyz [zymotic] hash index 130317
+put acillmotyyz [zymotically] hash index 453647
+put eimotyzz [zymotize] hash index 130763
+put cimootxyz [zymotoxic] hash index 277004
+put egimrsuyz [zymurgies] hash index 648943
+put gmruyyz [zymurgy] hash index 364305
+put ehmtyz [zythem] hash index 152107
+put hmtuyz [zythum] hash index 426983
+put avyyzzz [zyzzyva] hash index 17157
+put asvyyzzz [zyzzyvas] hash index 28182
+Enter jumble. 
+wtinge unjumbled is [tewing, twinge]
+Enter jumble. 
+Enter letters from clues in any order. 
+How many letters in the first word? 
+[blo, bol, lob, obl] [outdo]
+[boo] [tould]
+[dol, lod, old] [bouto]
+[doo] [blout, boult]
+[loo] [doubt]
+[out, tou] [blood, boldo]
+Enter letters from clues in any order. 

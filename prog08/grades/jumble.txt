@@ -1,0 +1,78 @@
+./prog04/SortedDLLPD.java:3: error: cannot find symbol
+public class SortedDLLPD extends DLLBasedPD {
+                                 ^
+  symbol: class DLLBasedPD
+./prog04/SortedDLLPD.java:22: error: cannot find symbol
+		if (head == null) {
+		    ^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:23: error: cannot find symbol
+			head = entry;
+			^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:24: error: cannot find symbol
+			tail = entry;
+			^
+  symbol:   variable tail
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:26: error: cannot find symbol
+		} else if (head != null && location == null) {
+		           ^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:27: error: cannot find symbol
+			location = head;
+			           ^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:33: error: cannot find symbol
+			tail = entry;
+			^
+  symbol:   variable tail
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:40: error: cannot find symbol
+				head = entry;
+				^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:66: error: cannot find symbol
+		if (head == null) {
+		    ^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:73: error: cannot find symbol
+		if (head != null && (head.getName().compareToIgnoreCase(name) > 0 || head.getName().equals(name))) {
+		    ^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:73: error: cannot find symbol
+		if (head != null && (head.getName().compareToIgnoreCase(name) > 0 || head.getName().equals(name))) {
+		                     ^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:73: error: cannot find symbol
+		if (head != null && (head.getName().compareToIgnoreCase(name) > 0 || head.getName().equals(name))) {
+		                                                                     ^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:74: error: cannot find symbol
+			return head;
+			       ^
+  symbol:   variable head
+  location: class SortedDLLPD
+./prog04/SortedDLLPD.java:77: error: cannot find symbol
+		DLLEntry entry = head.getNext();
+		                 ^
+  symbol:   variable head
+  location: class SortedDLLPD
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+14 errors
+Timing Jumble on dict using DLLTree.
+Should be about 5 seconds.
+Error: Could not find or load main class prog08.Jumble
+Caused by: java.lang.ClassNotFoundException: prog08.Jumble
+0.207u 0.047s 0:00.20 120.0%	0+0k 0+0io 0pf+0w
+SCORE 20/20

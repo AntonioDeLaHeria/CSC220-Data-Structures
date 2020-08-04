@@ -1,0 +1,1016 @@
+put Brad 46 hash index 2
+--------------------------------
+0: null
+1: null
+2: Brad 46
+3: null
+4: null
+
+put Hal 10 hash index 2
+--------------------------------
+0: null
+1: null
+2: Brad 46
+3: Hal 10
+4: null
+
+put Kyle 6 hash index 0
+put Kyle 6 hash index 3
+put Brad 46 hash index 11
+put Hal 10 hash index 7
+--------------------------------
+0: null
+1: null
+2: null
+3: Kyle 6
+4: null
+5: null
+6: null
+7: Hal 10
+8: null
+9: null
+10: null
+11: Brad 46
+
+put Lisa 43 hash index 3
+--------------------------------
+0: null
+1: null
+2: null
+3: Kyle 6
+4: Lisa 43
+5: null
+6: null
+7: Hal 10
+8: null
+9: null
+10: null
+11: Brad 46
+
+put Lynne 43 hash index 8
+--------------------------------
+0: null
+1: null
+2: null
+3: Kyle 6
+4: Lisa 43
+5: null
+6: null
+7: Hal 10
+8: Lynne 43
+9: null
+10: null
+11: Brad 46
+
+put Victor 46 hash index 3
+--------------------------------
+0: null
+1: null
+2: null
+3: Kyle 6
+4: Lisa 43
+5: Victor 46
+6: null
+7: Hal 10
+8: Lynne 43
+9: null
+10: null
+11: Brad 46
+
+put Zoe 6 hash index 8
+put Kyle 6 hash index 11
+put Lisa 43 hash index 23
+put Victor 46 hash index 19
+put Hal 10 hash index 11
+put Lynne 43 hash index 8
+put Zoe 6 hash index 12
+put Brad 46 hash index 7
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: Brad 46
+8: Lynne 43
+9: null
+10: null
+11: Kyle 6
+12: Hal 10
+13: Zoe 6
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: Lisa 43
+24: null
+25: null
+26: null
+27: null
+
+put Zoran 76 hash index 10
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: Brad 46
+8: Lynne 43
+9: null
+10: Zoran 76
+11: Kyle 6
+12: Hal 10
+13: Zoe 6
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: Lisa 43
+24: null
+25: null
+26: null
+27: null
+
+Brad Lynne Zoran Kyle Hal Zoe Victor Lisa 
+remove Zoe hash index 12
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: Brad 46
+8: Lynne 43
+9: null
+10: Zoran 76
+11: Kyle 6
+12: Hal 10
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: Lisa 43
+24: null
+25: null
+26: null
+27: null
+
+remove Kyle hash index 11
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: Brad 46
+8: Lynne 43
+9: null
+10: Zoran 76
+11: DELETED
+12: Hal 10
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: Lisa 43
+24: null
+25: null
+26: null
+27: null
+
+remove Brad hash index 7
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: Lynne 43
+9: null
+10: Zoran 76
+11: DELETED
+12: Hal 10
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: Lisa 43
+24: null
+25: null
+26: null
+27: null
+
+remove Zoran hash index 10
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: Lynne 43
+9: null
+10: DELETED
+11: DELETED
+12: Hal 10
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: Lisa 43
+24: null
+25: null
+26: null
+27: null
+
+remove Lisa hash index 23
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: Lynne 43
+9: null
+10: DELETED
+11: DELETED
+12: Hal 10
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+remove Hal hash index 11
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: Lynne 43
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+remove Lynne hash index 8
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+put Ant 3 hash index 23
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: Ant 3
+24: null
+25: null
+26: null
+27: null
+
+remove Ant hash index 23
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+put Bug 1 hash index 12
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: Bug 1
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+remove Bug hash index 12
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+put Cat 4 hash index 2
+--------------------------------
+0: null
+1: null
+2: Cat 4
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+remove Cat hash index 2
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+put Dog 1 hash index 12
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: Dog 1
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+remove Dog hash index 12
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: null
+25: null
+26: null
+27: null
+
+put Eel 5 hash index 24
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: Eel 5
+25: null
+26: null
+27: null
+
+remove Eel hash index 24
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: null
+21: null
+22: null
+23: DELETED
+24: DELETED
+25: null
+26: null
+27: null
+
+put Fox 9 hash index 19
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: Fox 9
+21: null
+22: null
+23: DELETED
+24: DELETED
+25: null
+26: null
+27: null
+
+remove Fox hash index 19
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: DELETED
+21: null
+22: null
+23: DELETED
+24: DELETED
+25: null
+26: null
+27: null
+
+put Gnu 2 hash index 22
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: DELETED
+21: null
+22: Gnu 2
+23: DELETED
+24: DELETED
+25: null
+26: null
+27: null
+
+remove Gnu hash index 22
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: DELETED
+21: null
+22: DELETED
+23: DELETED
+24: DELETED
+25: null
+26: null
+27: null
+
+put Hen 2 hash index 25
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: DELETED
+21: null
+22: DELETED
+23: DELETED
+24: DELETED
+25: Hen 2
+26: null
+27: null
+
+remove Hen hash index 25
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: null
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: DELETED
+21: null
+22: DELETED
+23: DELETED
+24: DELETED
+25: DELETED
+26: null
+27: null
+
+put Jay 2 hash index 14
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: Jay 2
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: DELETED
+21: null
+22: DELETED
+23: DELETED
+24: DELETED
+25: DELETED
+26: null
+27: null
+
+remove Jay hash index 14
+--------------------------------
+0: null
+1: null
+2: DELETED
+3: null
+4: null
+5: null
+6: null
+7: DELETED
+8: DELETED
+9: null
+10: DELETED
+11: DELETED
+12: DELETED
+13: DELETED
+14: DELETED
+15: null
+16: null
+17: null
+18: null
+19: Victor 46
+20: DELETED
+21: null
+22: DELETED
+23: DELETED
+24: DELETED
+25: DELETED
+26: null
+27: null
+
+put Owl 2 hash index 0
+put Owl 2 hash index 4
+put Victor 46 hash index 7
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: Owl 2
+5: null
+6: null
+7: Victor 46
+
+remove Owl hash index 4
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: DELETED
+5: null
+6: null
+7: Victor 46
+
+put Pig 2 hash index 6
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: DELETED
+5: null
+6: Pig 2
+7: Victor 46
+
+remove Pig hash index 6
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: DELETED
+5: null
+6: DELETED
+7: Victor 46
+
+put Rat 2 hash index 5
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: DELETED
+5: Rat 2
+6: DELETED
+7: Victor 46
+
+remove Rat hash index 5
+--------------------------------
+0: null
+1: null
+2: null
+3: null
+4: DELETED
+5: DELETED
+6: DELETED
+7: Victor 46
+
+put Yak 2 hash index 3
+put Yak 2 hash index 3
+put Victor 46 hash index 7
+--------------------------------
+0: null
+1: null
+2: null
+3: Yak 2
+4: null
+5: null
+6: null
+7: Victor 46
+
+remove Yak hash index 3
+--------------------------------
+0: null
+1: null
+2: null
+3: DELETED
+4: null
+5: null
+6: null
+7: Victor 46
+

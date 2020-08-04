@@ -1,0 +1,84 @@
+De La Heria	Login: aede220				Name: Antonio De La Heria
+Cases 0-3 should each have exactly one call to pd.
+-3 if it has an extra call.
+-10 if it has no call.
+
+		pd.loadData(fn);
+			case -1:
+			case 0:
+				case 0: 
+					case 0: 
+						pd.addOrChangeEntry(name, number); 
+						pd.save();
+					case 1: 
+				case 1:
+						pd.addOrChangeEntry(searchName, changedNumber); 
+						pd.save();
+			case 1:
+					number = pd.lookupEntry(name); 
+			case 2:
+					number = pd.lookupEntry(name);
+						pd.removeEntry(name); 
+						pd.save();
+			case 3:
+				pd.save();
+			case 4:
+
+	case 1:
+	 Enter the name 
+	? Fred
+Fred is not listed 
+	case 1:
+	 Enter the name 
+	? Victor
+Victor has numbervjm@cs.miami.edu
+	case 2:
+	 Enter a name 
+	? Victor
+Removed entry with name Victor and number vjm@cs.miami.edu
+	case 2:
+	 Enter a name 
+	? Victor
+Victor is not listed
+	case 0:
+ERROR (-3 points):  break too soon.
+	case 0:
+	 Enter the name
+	? Fred
+	 Enter the number
+	? fred
+	case 0:
+ new contact has been saved
+ERROR (-3 points):  break too soon.
+	case 0:
+ERROR (-3 points):  break too soon.
+	case 1:
+	 seach for name 
+	? null
+ contact does not exist 
+	case 1:
+	 Enter the name 
+	? 
+ please enter a valid name
+	case 2:
+	 Enter a name 
+	? null
+ Contact does not exist 
+	case 2:
+	 Enter a name 
+	? 
+ Contact does not exist 
+	case 0:
+ERROR (-3 points):  break too soon.
+	case 0:
+	 Enter the name
+	? 
+	 Enter the number
+ERROR (-3 points):  missing break.
+	case 3:
+	case 4:
+-3 points if your program does not have the old and new number for Fred.
+-10 points if your program crashes when the user clicks CANCEL.
+
+SCORE:  13/40
+

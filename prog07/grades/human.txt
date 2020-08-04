@@ -1,0 +1,46 @@
+Please enter the file name: 
+UI words
+Enter the starting word:
+UI fail
+Enter the target word:
+UI pass
+0:Humman Plays. 1:Computer Plays.
+UI 0
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI pall
+Sorry, but pall differs by more than one letter from fail
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI fail
+Sorry, but fail differs by more than one letter from fail
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI fais
+fais is not a word.
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI fail
+Sorry, but fail differs by more than one letter from fail
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI fall
+Current postition: fall
+Target is: pass
+ What is the next word: 
+UI pall
+Current postition: pall
+Target is: pass
+ What is the next word: 
+UI pals
+Current postition: pals
+Target is: pass
+ What is the next word: 
+UI pass
+You Win!!!
+SCORE 25/25

@@ -1,0 +1,44 @@
+Please enter the File Name:
+UI words
+ Enter starting word: 
+UI fail
+ Enter the target word you wish for: 
+UI pass
+0:Human plays. 1:Computer plays.
+UI 0
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI pall
+Invalid word
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI fail
+Invalid word
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI fais
+Current postition: fais
+Target is: pass
+ What is the next word: 
+UI fail
+Current postition: fail
+Target is: pass
+ What is the next word: 
+UI fall
+Current postition: fall
+Target is: pass
+ What is the next word: 
+UI pall
+Current postition: pall
+Target is: pass
+ What is the next word: 
+UI pals
+Current postition: pals
+Target is: pass
+ What is the next word: 
+UI pass
+You Win!!!
+SCORE 20/30
